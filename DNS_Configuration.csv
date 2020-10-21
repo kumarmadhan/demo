@@ -1,0 +1,3 @@
+Domain Name,Record Name,Record Type,Record Value
+www.stagingshyaway.com,_5e411bea498762a014cec948c6542714.www.stagingshyaway.com.,CNAME,_702e3d5c283b17e768d9c9b7747cf4b8.bsgbmzkfwj.acm-validations.aws.
+*.stagingshyaway.com,_8456498677df58eb66b19a7e916df4ac.stagingshyaway.com.,CNAME,_7f43eeb460f276f88d68859c3c08fd0d.hkvuiqjoua.acm-validations.aws.
